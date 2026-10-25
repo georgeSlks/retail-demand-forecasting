@@ -7,5 +7,5 @@
 
 - DOI: arXiv:2505.16319
 
-- Dataset Link: [FreshRetailNet-50K](https://huggingface.co/papers/2505.16319)
+- Dataset Link: [FreshRetailNet-50K](https://huggingface.co/datasets/Dingdong-Inc/FreshRetailNet-50K)
 
