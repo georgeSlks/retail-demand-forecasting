@@ -9,3 +9,8 @@
 
 - Dataset Link: [FreshRetailNet-50K](https://huggingface.co/datasets/Dingdong-Inc/FreshRetailNet-50K)
 
+
+
+# Models
+
+- Oficial Chronos-2 publication: [Chronos-2](https://arxiv.org/pdf/2510.15821)
