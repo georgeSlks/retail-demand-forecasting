@@ -13,4 +13,4 @@
 
 # Models
 
-- Oficial Chronos-2 publication: [Chronos-2](https://arxiv.org/pdf/2510.15821)
+- Official Chronos-2 publication: [Chronos-2](https://arxiv.org/pdf/2510.15821)
